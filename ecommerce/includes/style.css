@@ -1,0 +1,8 @@
+    body {
+        background-image: ('https://www.lojavirtual.com.br/wp-content/uploads/2017/09/POR-QUE-VOC%C3%8A-DEVE-INVESTIR-NO-ECOMMERCE-AGORA-MESMO-1.png');
+    }
+    
+    #contact .card:hover i,
+    #contact .card:hover h4 {
+        color: #4b38f7;
+    }
